@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SHOP>
   <SHOPITEM>
+    <ITEM_ID>200001610</ITEM_ID>
+    <PRODUCT>BRIDGET Světle hnědá paruka s ofinou ze syntetických vlasů</PRODUCT>
+    <DESCRIPTION><![CDATA[Velmi přirozená paruka s ofinou ze syntetických vlasů.  Paruku lze tepelně upravovat (žehlit, kulmovat) do 130 stupňů. Teplotu doporučuji vyzkoušet na malém pramínku ve spodní části. Uvnitř je klasická síťka, včetně háčků ke stažení, takže paruku je možné přizpůsobit obvodu hlavy. Nejedná se o typ lace front.Ofina je univerzální. Pokud Vám nebude sedět, je třeba ji zastřihnout na míru - zkrátit, či rozšířit dle potřeby, případně upravit vzhled pomocí žehličky nebo fénu. Délka paruky: 53 cm délka ofiny: 13 cm (rozměry jsou uváděny v natažené délce vlasů)Součástí balíčku je 2x čepička odpovídající odstínu paruky, pod kterou schováte vlastní vlasy]]></DESCRIPTION>
+    <URL>https://www.parukydoruky.cz/p/bridget-svetle-hneda-paruka-s-ofinou-ze-syntetickych-vlasu/</URL>
+    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000943-f2a33f2a36/Facetune_10-03-2025-11-00-58.jpeg?ph=faea880147]]></IMGURL>
+    <MANUFACTURER>OEM</MANUFACTURER>
+    <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
+    <EAN></EAN>
+    <PRODUCTNO>200001610</PRODUCTNO>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <PRICE>1490</PRICE>
+    <PRICE_VAT>1490</PRICE_VAT>
+    <VAT>0</VAT>
+    <ITEM_TYPE>new</ITEM_TYPE>
+    <DELIVERY>
+      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+      <DELIVERY_PRICE>49</DELIVERY_PRICE>
+    </DELIVERY>
+    <DELIVERY>
+      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
+      <DELIVERY_PRICE>99</DELIVERY_PRICE>
+    </DELIVERY>
+  </SHOPITEM>
+  <SHOPITEM>
     <ITEM_ID>200001430</ITEM_ID>
     <PRODUCT>WILLOW Zrzavá paruka ze syntetických vlasů s ofinou</PRODUCT>
     <DESCRIPTION><![CDATA[Paruku
