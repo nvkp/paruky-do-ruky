@@ -1580,4 +1580,40 @@ paruky, pod kterou schováte vlastní vlasy.#blond paruka #ombre paruka #ombre #
       <DELIVERY_PRICE>99</DELIVERY_PRICE>
     </DELIVERY>
   </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>200000047</ITEM_ID>
+    <PRODUCT>ANGELINA Hnědá ombré paruka s ofinou ze syntetických vlasů</PRODUCT>
+    <DESCRIPTION><![CDATA[Velmi přirozená paruka s ofinou ze syntetických vlasů. Ombré,
+tmavohnědá u kořínků hnědá v délkách. Paruku lze tepelně upravovat (žehlit, kulmovat) do 150 stupňů. Teplotu
+doporučuji vyzkoušet na malém pramínku ve spodní části. Uvnitř je klasická síťka, včetně háčků ke stažení, takže
+paruku je možné přizpůsobit obvodu hlavy. Nejedná se o typ lace front.Ofina je univerzální. Pokud Vám nebude sedět, je třeba ji
+zastřihnout na míru - zkrátit, či rozšířit dle potřeby, případně upravit vzhled
+pomocí žehličky nebo fénu. Délka paruky: 53 cm délka ofiny: 13 cm (rozměry jsou uváděny
+v natažené délce vlasů)
+
+
+
+
+Součástí balíčku je 2x čepička odpovídající odstínu paruky,
+pod kterou schováte vlastní vlasy.#ombre paruka #paruka s ofinou #ofina #hnědá paruka #přirozená paruka #paruka ze syntetických vlasů]]></DESCRIPTION>
+    <URL>https://www.parukydoruky.cz/p/paruka-angelina/</URL>
+    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000017-2273a2273c/DSCF2180.JPG?ph=faea880147]]></IMGURL>
+    <MANUFACTURER>OEM</MANUFACTURER>
+    <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
+    <EAN></EAN>
+    <PRODUCTNO>200000047</PRODUCTNO>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <PRICE>1490</PRICE>
+    <PRICE_VAT>1490</PRICE_VAT>
+    <VAT>0</VAT>
+    <ITEM_TYPE>new</ITEM_TYPE>
+    <DELIVERY>
+      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+      <DELIVERY_PRICE>49</DELIVERY_PRICE>
+    </DELIVERY>
+    <DELIVERY>
+      <DELIVERY_ID>CESKA_POSTA</DELIVERY_ID>
+      <DELIVERY_PRICE>99</DELIVERY_PRICE>
+    </DELIVERY>
+  </SHOPITEM>
 </SHOP>
