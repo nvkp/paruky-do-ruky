@@ -22,9 +22,9 @@
     </DELIVERY>
   </SHOPITEM>
   <SHOPITEM>
-    <ITEM_ID>200001426</ITEM_ID>
-    <PRODUCT>EMMA Tmavě červená paruka ze syntetických vlasů s ofinou</PRODUCT>
-    <PRODUCTNAME>EMMA Tmavě červená paruka ze syntetických vlasů s ofinou</PRODUCTNAME>
+    <ITEM_ID>200001430</ITEM_ID>
+    <PRODUCT>WILLOW Zrzavá paruka ze syntetických vlasů s ofinou</PRODUCT>
+    <PRODUCTNAME>WILLOW Zrzavá paruka ze syntetických vlasů s ofinou</PRODUCTNAME>
     <DESCRIPTION><![CDATA[Paruku
 lze tepelně upravovat (žehlit, kulmovat) do 130 stupňů. Teplotu
 doporučuji vyzkoušet na malém pramínku vlasů ve spodní
@@ -41,12 +41,12 @@ balíčku je 2x čepička odpovídající odstínu paruky, pod kterou
 schováte vlastní vlasy.Odeslání
 do 3 pracovních dnů Českou poštou nebo Zásilkovnou po připsání
 částky na účet. Cena je uvedena bez dopravy]]></DESCRIPTION>
-    <URL>https://www.parukydoruky.cz/p/tmave-cervena-paruka-ze-syntetickych-vlasu-s-ofinou/</URL>
-    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000891-720de720df/Photoroom_032_20241227_221254.jpeg?ph=faea880147]]></IMGURL>
+    <URL>https://www.parukydoruky.cz/p/zrzava-paruka-ze-syntetickych-vlasu-s-ofinou/</URL>
+    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000931-59d4e59d50/Photoroom_003_20241227_221254-6.jpeg?ph=faea880147]]></IMGURL>
     <MANUFACTURER>OEM</MANUFACTURER>
     <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
     <EAN></EAN>
-    <PRODUCTNO>200001426</PRODUCTNO>
+    <PRODUCTNO>200001430</PRODUCTNO>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <PRICE>690</PRICE>
     <PRICE_VAT>690</PRICE_VAT>
@@ -454,6 +454,38 @@ pod kterou schováte vlastní vlasy.]]></DESCRIPTION>
     </DELIVERY>
   </SHOPITEM>
   <SHOPITEM>
+    <ITEM_ID>200000084</ITEM_ID>
+    <PRODUCT>SIA Blond paruka s ofinou ze syntetických vlasů</PRODUCT>
+    <PRODUCTNAME>SIA Blond paruka s ofinou ze syntetických vlasů</PRODUCTNAME>
+    <DESCRIPTION><![CDATA[Přirozená blond paruka s ofinou ze syntetických vlasů. Paruku lze tepelně upravovat (žehlit, kulmovat) do 150 stupňů.
+Teplotu doporučuji vyzkoušet na malém pramínku ve spodní části. Uvnitř je klasická síťka, včetně háčků ke stažení, takže
+paruku je možné přizpůsobit obvodu hlavy. Nejedná se o typ lace front.Ofina je univerzální. Pokud Vám nebude sedět, je třeba ji
+zastřihnout na míru - zkrátit, či rozšířit dle potřeby, případně upravit vzhled
+pomocí žehličky nebo fénu. Délka paruky: 70 cm délka ofiny: 13cm (rozměry jsou uváděny
+v natažené délce vlasů)
+
+
+
+
+Součástí balíčku je 2x čepička odpovídající odstínu paruky,
+pod kterou schováte vlastní vlasy.]]></DESCRIPTION>
+    <URL>https://www.parukydoruky.cz/p/paruka-sia/</URL>
+    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000249-c9390c9392/DSCF2364.JPG?ph=faea880147]]></IMGURL>
+    <MANUFACTURER>OEM</MANUFACTURER>
+    <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
+    <EAN></EAN>
+    <PRODUCTNO>200000084</PRODUCTNO>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <PRICE>890</PRICE>
+    <PRICE_VAT>890</PRICE_VAT>
+    <VAT>0</VAT>
+    <ITEM_TYPE>new</ITEM_TYPE>
+    <DELIVERY>
+      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+      <DELIVERY_PRICE>49</DELIVERY_PRICE>
+    </DELIVERY>
+  </SHOPITEM>
+  <SHOPITEM>
     <ITEM_ID>200000083</ITEM_ID>
     <PRODUCT>MILEY Ombré paruka s ofinou ze syntetických vlasů</PRODUCT>
     <PRODUCTNAME>MILEY Ombré paruka s ofinou ze syntetických vlasů</PRODUCTNAME>
@@ -478,36 +510,6 @@ pod kterou schováte vlastní vlasy.]]></DESCRIPTION>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <PRICE>890</PRICE>
     <PRICE_VAT>890</PRICE_VAT>
-    <VAT>0</VAT>
-    <ITEM_TYPE>new</ITEM_TYPE>
-    <DELIVERY>
-      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
-      <DELIVERY_PRICE>49</DELIVERY_PRICE>
-    </DELIVERY>
-  </SHOPITEM>
-  <SHOPITEM>
-    <ITEM_ID>200000081</ITEM_ID>
-    <PRODUCT>CIARA Lace front ombré paruka</PRODUCT>
-    <PRODUCTNAME>CIARA Lace front ombré paruka</PRODUCTNAME>
-    <DESCRIPTION><![CDATA[Přirozená lace front ombré paruka ze syntetických vlasů. Paruka lze tepelně upravovat (žehlit, kulmovat) do 150 stupňů.
-Teplotu doporučuji vyzkoušet na malém pramínku ve spodní části. Uvnitř je klasická síťka. V síťce jsou háčky ke stažení, takže
-paruku je možné přizpůsobit obvodu hlavy. Přečnívající síťka vpředu se stříhá
-podle linie vlasů, dodává přirozený efekt a umožňuje vyčesat vlasy do culíku.Délka paruky: 75 cm (rozměry jsou uváděny v natažené délce
-vlasů)
-
-
-
-Součástí balíčku je 2x čepička odpovídající odstínu paruky,
-pod kterou schováte vlastní vlasy.]]></DESCRIPTION>
-    <URL>https://www.parukydoruky.cz/p/paruka-ciara/</URL>
-    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000233-d9198d919b/DSCF2317-0.JPG?ph=faea880147]]></IMGURL>
-    <MANUFACTURER>OEM</MANUFACTURER>
-    <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
-    <EAN></EAN>
-    <PRODUCTNO>200000081</PRODUCTNO>
-    <DELIVERY_DATE>0</DELIVERY_DATE>
-    <PRICE>1000</PRICE>
-    <PRICE_VAT>1000</PRICE_VAT>
     <VAT>0</VAT>
     <ITEM_TYPE>new</ITEM_TYPE>
     <DELIVERY>
@@ -723,6 +725,39 @@ paruky, pod kterou schováte vlastní vlasy.#blond paruka #ombre paruka #ombre #
     <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
     <EAN></EAN>
     <PRODUCTNO>200000056</PRODUCTNO>
+    <DELIVERY_DATE>0</DELIVERY_DATE>
+    <PRICE>790</PRICE>
+    <PRICE_VAT>790</PRICE_VAT>
+    <VAT>0</VAT>
+    <ITEM_TYPE>new</ITEM_TYPE>
+    <DELIVERY>
+      <DELIVERY_ID>ZASILKOVNA</DELIVERY_ID>
+      <DELIVERY_PRICE>49</DELIVERY_PRICE>
+    </DELIVERY>
+  </SHOPITEM>
+  <SHOPITEM>
+    <ITEM_ID>200000047</ITEM_ID>
+    <PRODUCT>ANGELINA Hnědá ombré paruka s ofinou ze syntetických vlasů</PRODUCT>
+    <PRODUCTNAME>ANGELINA Hnědá ombré paruka s ofinou ze syntetických vlasů</PRODUCTNAME>
+    <DESCRIPTION><![CDATA[Velmi přirozená paruka s ofinou ze syntetických vlasů. Ombré,
+tmavohnědá u kořínků hnědá v délkách. Paruku lze tepelně upravovat (žehlit, kulmovat) do 150 stupňů. Teplotu
+doporučuji vyzkoušet na malém pramínku ve spodní části. Uvnitř je klasická síťka, včetně háčků ke stažení, takže
+paruku je možné přizpůsobit obvodu hlavy. Nejedná se o typ lace front.Ofina je univerzální. Pokud Vám nebude sedět, je třeba ji
+zastřihnout na míru - zkrátit, či rozšířit dle potřeby, případně upravit vzhled
+pomocí žehličky nebo fénu. Délka paruky: 53 cm délka ofiny: 13 cm (rozměry jsou uváděny
+v natažené délce vlasů)
+
+
+
+
+Součástí balíčku je 2x čepička odpovídající odstínu paruky,
+pod kterou schováte vlastní vlasy.#ombre paruka #paruka s ofinou #ofina #hnědá paruka #přirozená paruka #paruka ze syntetických vlasů]]></DESCRIPTION>
+    <URL>https://www.parukydoruky.cz/p/paruka-angelina/</URL>
+    <IMGURL><![CDATA[https://faea880147.clvaw-cdnwnd.com/90d19148cdc9f8b3132caa890410c293/200000017-2273a2273c/DSCF2180.JPG?ph=faea880147]]></IMGURL>
+    <MANUFACTURER>OEM</MANUFACTURER>
+    <CATEGORYTEXT>Heureka.cz | Oblečení, obuv a doplňky | Módní doplňky | Doplňky do vlasů | Paruky</CATEGORYTEXT>
+    <EAN></EAN>
+    <PRODUCTNO>200000047</PRODUCTNO>
     <DELIVERY_DATE>0</DELIVERY_DATE>
     <PRICE>790</PRICE>
     <PRICE_VAT>790</PRICE_VAT>
